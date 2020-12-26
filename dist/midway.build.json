@@ -1,0 +1,59 @@
+{
+  "features": {
+    "tsc": true
+  },
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowJs": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "inlineSourceMap": true,
+    "inlineSources": false,
+    "sourceRoot": "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src",
+    "outDir": "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist",
+    "rootDir": "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src",
+    "listEmittedFiles": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": false,
+    "stripInternal": true,
+    "pretty": true,
+    "declaration": true
+  },
+  "include": [
+    "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src"
+  ],
+  "exclude": [
+    "dist",
+    "node_modules",
+    "test"
+  ],
+  "compileOnSave": true,
+  "build": {
+    "inputFiles": [
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/configuration.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/index.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/service/is.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/service/nanoid.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/service/tool.ts"
+    ],
+    "outputFiles": [
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/configuration.js",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/configuration.d.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/service/nanoid.js",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/service/nanoid.d.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/service/tool.js",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/service/tool.d.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/index.js",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/index.d.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/service/is.js",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/service/is.d.ts"
+    ]
+  },
+  "versions": {
+    "mwcc": "0.3.5",
+    "typescript": "3.9.7"
+  }
+}
