@@ -35,6 +35,7 @@
     "inputFiles": [
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/configuration.ts",
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/index.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/config/config.default.ts",
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/service/is.ts",
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/service/nanoid.ts",
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/src/service/tool.ts"
@@ -48,6 +49,8 @@
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/service/tool.d.ts",
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/index.js",
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/index.d.ts",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/config/config.default.js",
+      "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/config/config.default.d.ts",
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/service/is.js",
       "/Users/Qun/Unclutter/九泰药业项目/server/src/components/midway-tool/dist/service/is.d.ts"
     ]
